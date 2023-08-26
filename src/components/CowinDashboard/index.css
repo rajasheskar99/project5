@@ -1,0 +1,46 @@
+.bg-container {
+  width: 100%;
+  background-color: #161625;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+  align-self: center;
+  margin-right: 10px;
+}
+.title {
+  font-family: 'roboto';
+  font-size: 20px;
+  color: white;
+}
+.logo-sec {
+  display: flex;
+}
+.logo-text {
+  font-family: 'roboto';
+  font-size: 20px;
+  color: #2cc6c6;
+  font-weight: 500;
+}
+.fail-img {
+  height: 500px;
+  width: 500px;
+}
+.bg-contain {
+  width: 100%;
+  background-color: #161625;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding-left: 60px;
+  padding-right: 60px;
+}
